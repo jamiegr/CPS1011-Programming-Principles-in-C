@@ -1,0 +1,7 @@
+C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/CMakeFiles/app1.dir
+C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/CMakeFiles/app2.dir
+C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/CMakeFiles/app3.dir
+C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/CMakeFiles/app4.dir
+C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/CMakeFiles/app5.dir

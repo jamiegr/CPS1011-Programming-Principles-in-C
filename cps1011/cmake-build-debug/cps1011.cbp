@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cps1011"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app1">
+				<Option output="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/app1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/WinBuilds/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/i686-w64-mingw32"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 app1"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app1/fast">
+				<Option output="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/app1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/WinBuilds/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/i686-w64-mingw32"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 app1/fast"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app2">
+				<Option output="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/app2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/WinBuilds/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/i686-w64-mingw32"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 app2"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app2/fast">
+				<Option output="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/app2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/WinBuilds/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/i686-w64-mingw32"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 app2/fast"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app3">
+				<Option output="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/app3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/WinBuilds/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/i686-w64-mingw32"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 app3"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app3/fast">
+				<Option output="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/app3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/WinBuilds/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/i686-w64-mingw32"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 app3/fast"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app4">
+				<Option output="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/app4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/WinBuilds/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/i686-w64-mingw32"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 app4"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app4/fast">
+				<Option output="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/app4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/WinBuilds/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/i686-w64-mingw32"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 app4/fast"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app5">
+				<Option output="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/app5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/WinBuilds/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/i686-w64-mingw32"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 app5"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app5/fast">
+				<Option output="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/app5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/WinBuilds/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/i686-w64-mingw32"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="g:\winbuilds\bin\../lib/gcc/i686-w64-mingw32/4.8.3/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 app5/fast"/>
+					<CompileFile command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/main.c">
+			<Option target="app1"/>
+		</Unit>
+		<Unit filename="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/main2.c">
+			<Option target="app2"/>
+		</Unit>
+		<Unit filename="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/main3.c">
+			<Option target="app3"/>
+		</Unit>
+		<Unit filename="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/main4.c">
+			<Option target="app4"/>
+		</Unit>
+		<Unit filename="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/main5.c">
+			<Option target="app5"/>
+		</Unit>
+		<Unit filename="C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

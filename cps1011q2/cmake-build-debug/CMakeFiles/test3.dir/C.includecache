@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011q2/hashtable.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011q2/test.c
+hashtable.h
+C:/Users/Jamie/Desktop/Uni/CPS1011 - Programming Principles in C/cps1011q2/hashtable.h
+
